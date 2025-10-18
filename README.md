@@ -65,10 +65,15 @@ All this information is sent to the cloud and displayed in real time through a w
 
 ---
 
-## ⚙️ Prototype Connection Setup
-        <img width="847" height="515" alt="prototype connection setup" src="https://github.com/user-attachments/assets/831bd350-ca6c-4ce8-8e49-1f23969e7b5d" />
+## ⚙️ Prototype Connection Setup and output
+<p align="center">
+  <img width="500" height="500" alt="prototype connection setup"
+       src="https://github.com/user-attachments/assets/831bd350-ca6c-4ce8-8e49-1f23969e7b5d" />
+</p>
 
-
+<p align="center">
+<img width="500" height="500" alt="output dashboard" src="https://github.com/user-attachments/assets/74d49160-3bb6-4a37-a4fb-a0ddb433af7f" />
+</p>
 
 
 
